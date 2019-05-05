@@ -1,0 +1,24 @@
+{
+    "development": {
+        "username": "root",
+        "password": "#GOTYSuperMarioBros2",
+        "database": "PBUSERInfo",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "",
+        "database": "react_sequelize_test",
+        "host": "",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "",
+        "database": "react_sequelize_prod",
+        "host": "",
+        "dialect": "mysql"
+    }
+
+}
